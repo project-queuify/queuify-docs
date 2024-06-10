@@ -1,7 +1,7 @@
-# 👋 Welcome to A Product
+# 👋 Welcome to Queuify!
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+{% hint style="warning" %}
+**Note:** This documentation is auto generated via gitbook template and soon will be updated with proper description from Queuify! Consider the documentation useless till that!
 {% endhint %}
 
 ## Overview
